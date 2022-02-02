@@ -1,0 +1,28 @@
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.AssemblyInfoInputs.cache
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.AssemblyInfo.cs
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\bin\Debug\netcoreapp2.1\Productmicroservice.deps.json
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\bin\Debug\netcoreapp2.1\Productmicroservice.runtimeconfig.json
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\bin\Debug\netcoreapp2.1\Productmicroservice.runtimeconfig.dev.json
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\bin\Debug\netcoreapp2.1\Productmicroservice.dll
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\bin\Debug\netcoreapp2.1\Productmicroservice.pdb
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.RazorAssemblyInfo.cache
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.RazorAssemblyInfo.cs
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.dll
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.pdb
+C:\Users\Nikhilshah\Desktop\Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\bin\Debug\netcoreapp2.1\Productmicroservice.deps.json
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\bin\Debug\netcoreapp2.1\Productmicroservice.runtimeconfig.json
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\bin\Debug\netcoreapp2.1\Productmicroservice.runtimeconfig.dev.json
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\bin\Debug\netcoreapp2.1\Productmicroservice.dll
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\bin\Debug\netcoreapp2.1\Productmicroservice.pdb
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.csproj.CoreCompileInputs.cache
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.RazorAssemblyInfo.cache
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.RazorAssemblyInfo.cs
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.AssemblyInfoInputs.cache
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.AssemblyInfo.cs
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.RazorTargetAssemblyInfo.cache
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.dll
+E:\E\Trainings\Cognizant Contract\Oct\3_Microservices\Day 3\Productmicroservice\Productmicroservice\obj\Debug\netcoreapp2.1\Productmicroservice.pdb
